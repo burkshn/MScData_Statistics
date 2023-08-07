@@ -1,0 +1,2 @@
+# MScData_Statistics
+This study compares average earnings in the public sectors of Ireland, Spain, and the Netherlands using statistical methods. Descriptive and inferential statistics are employed to analyze the data and identify potential differences. The findings reveal distinct patterns, with Ireland showing significant growth, while Spain and the Netherlands exhibit stability in public sector earnings.
